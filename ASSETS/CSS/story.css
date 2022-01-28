@@ -1,0 +1,30 @@
+
+
+body{
+    padding: 10px;
+    background-color:khaki;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: 10px;
+
+    
+}
+
+h1{
+    background-color: rosybrown;
+    padding: 20px;
+    border: 1px solid rosybrown;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+.new{
+    text-align: center;
+    text-decoration: seagreen;
+
+}
+
+
+
